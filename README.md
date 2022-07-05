@@ -26,6 +26,14 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm José Antonio</h1>
 <h3 align="center">A computer engineering student</h3>
 
+- 🌱 I’m currently learning Python, JavaScript and more.
+- 📫 How to reach me **joseafl2000@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jos%C3%A9-antonio-fuentes-l%C3%B3pez-991a0823a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jos%C3%A9-antonio-fuentes-l%C3%B3pez-991a0823a/" height="30" width="40" /></a>
+</p>
+
 ## Used
 
    <p align="center">
