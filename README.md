@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **josefuentes2/josefuentes2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/joseefuentesss"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png"></a>&nbsp;&nbsp;
 </p> 
 
+
+<h1 align="center">Hi 👋, I'm José Antonio</h1>
+<h3 align="center">A computer engineering student</h3>
+
 ## Used
 
    <p align="center">
@@ -40,6 +44,13 @@ Here are some ideas to get you started:
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/eclipse.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/vmware.svg" />
    </p>
 
+## Stats   
+
+   <p align="center">
+      <img width="45%" src="https://github-readme-stats.vercel.app/api?username=josefuentes2&layout=compact&theme=react&hide_border=true&count_private=true&show_icons=true"/>
+   </p>
+   
 
