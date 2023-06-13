@@ -55,10 +55,3 @@ Here are some ideas to get you started:
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/vmware.svg" />
    </p>
 
-## Stats   
-
-   <p align="center">
-      <img width="45%" src="https://github-readme-stats.vercel.app/api?username=josefuentes2&layout=compact&theme=react&hide_border=true&count_private=true&show_icons=true"/>
-   </p>
-   
-
